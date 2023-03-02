@@ -24,3 +24,8 @@ Make the initial commit: git add -A && git commit -m "Initial commit"
 Push for the first time: git push -u origin main
 
 Have fun coding your new project and don't forget to make frequent commits!
+
+npm run build
+npm start
+
+nodemon
