@@ -17,7 +17,7 @@ Create a new repo on your personal GH account.
 
 Copy the new GH repo's URL.
 
-Update the remote's URL: git remote set-url origin <paste the copied GH url>
+Update the remote's URL: git remote set-url origin -paste the copied GH url-
 
 Make the initial commit: git add -A && git commit -m "Initial commit"
 
