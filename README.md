@@ -13,8 +13,6 @@ Create a .env (touch .env) and add entries for DATABASE_URL and SECRET
 
 Update the "name": "mern-infrastructure" in package.json to the name of your project.
   
-Delete Origin URL: git remote rm origin
-
 Create a new repo on your personal GH account.
 
 Copy the new GH repo's URL.
